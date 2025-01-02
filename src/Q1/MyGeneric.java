@@ -26,7 +26,7 @@ public class MyGeneric<E> {
         MyGeneric<Integer>intobj=new MyGeneric<>(23);
         strobj.setE("Hello World");
         intobj.setE(100);
-        //I have add this comment
+        //I have add this commentsssss
         System.out.println("String value:"+strobj.getE());
         System.out.println("Integer value: "+intobj.getE());
     }
